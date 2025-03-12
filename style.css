@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Notepad{
+    width: 800px;
+    height: 600px;
+    padding: 20px;
+    border: 1px;
+}
+ 
+#Notepad textarea{
+    width: 170%;
+    height: 100%;
+    padding: 10px;
+    font-size: 16px;
+    
+}
